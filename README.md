@@ -54,7 +54,7 @@ AI & Data Science student building tools at the intersection of **NLP, Cybersecu
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-gandhi-679516212?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](anushkagandhi503@gmailcom)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@anushkagandhi503@gmail.com)
 
 ---
 
